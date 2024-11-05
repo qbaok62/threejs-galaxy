@@ -12,7 +12,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-
+## Preview - [Demo](https://threejs-galaxy-seven.vercel.app)
 ![image](https://github.com/qbaok62/threejs-galaxy/assets/98417594/efe6f1f0-5941-46ee-8812-1ef2de5f1625)
 
 
